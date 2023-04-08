@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1026980626352",
+    "project_id": "assign-kapylon",
+    "storage_bucket": "assign-kapylon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026980626352:android:b60e0bd329f4083d736075",
+        "android_client_info": {
+          "package_name": "com.example.assign_kapylon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026980626352-ae5cuaetjnr6i1edt514b3h5tme6b3nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assign_kapylon",
+            "certificate_hash": "09061870c88501264f7165f7464df4edbc82b21e"
+          }
+        },
+        {
+          "client_id": "1026980626352-412ppb7hi5b940ajkel6bg8b9dqhtlgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4s02rtMWvt9uGSYhIlGAeaieODNbhn9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026980626352-412ppb7hi5b940ajkel6bg8b9dqhtlgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
